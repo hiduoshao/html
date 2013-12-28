@@ -4,7 +4,7 @@
   <title><![CDATA[叫我疯子，别叫我傻子]]></title>
   <link href="http://hiduoshao.github.io/html/atom.xml" rel="self"/>
   <link href="http://hiduoshao.github.io/html/"/>
-  <updated>2013-12-28T04:06:21+00:00</updated>
+  <updated>2013-12-28T04:11:31+00:00</updated>
   <id>http://hiduoshao.github.io/html/</id>
   <author>
     <name><![CDATA[HX]]></name>
@@ -40,6 +40,10 @@
 
 <p>allllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll</p>
 
+
+<p class='post-footer'>
+                        original link:<a href='http://hiduoshao.github.io/html/blog/2013/12/28/bo-ke-ce-shi-zhong/'>http://hiduoshao.github.io/html/blog/2013/12/28/bo-ke-ce-shi-zhong/</a><br/>&nbsp;written by <a href='http://hiduoshao.github.io/html'>HX</a>&nbsp;posted at <a href='http://hiduoshao.github.io/html'>http://hiduoshao.github.io/html</a></p>
+
 ]]></content>
   </entry>
   
@@ -49,6 +53,10 @@
     <updated>2013-12-28T03:03:26+00:00</updated>
     <id>http://hiduoshao.github.io/html/blog/2013/12/28/hello-world</id>
     <content type="html"><![CDATA[<p>你好吗，这是我的第一个网站</p>
+
+
+<p class='post-footer'>
+                        original link:<a href='http://hiduoshao.github.io/html/blog/2013/12/28/hello-world/'>http://hiduoshao.github.io/html/blog/2013/12/28/hello-world/</a><br/>&nbsp;written by <a href='http://hiduoshao.github.io/html'>HX</a>&nbsp;posted at <a href='http://hiduoshao.github.io/html'>http://hiduoshao.github.io/html</a></p>
 
 ]]></content>
   </entry>
