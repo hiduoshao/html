@@ -4,7 +4,7 @@
   <title><![CDATA[叫我疯子，别叫我傻子]]></title>
   <link href="http://hiduoshao.github.io/html/atom.xml" rel="self"/>
   <link href="http://hiduoshao.github.io/html/"/>
-  <updated>2013-12-29T12:44:52+00:00</updated>
+  <updated>2013-12-29T13:05:23+00:00</updated>
   <id>http://hiduoshao.github.io/html/</id>
   <author>
     <name><![CDATA[HX]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[树莓派中更新Octopress博客的一点问题]]></title>
+    <link href="http://hiduoshao.github.io/html/blog/2013/12/29/shu-mei-pai-zhong-geng-xin-octopressbo-ke-de-%5B%3F%5D-dian-wen-ti/"/>
+    <updated>2013-12-29T12:53:58+00:00</updated>
+    <id>http://hiduoshao.github.io/html/blog/2013/12/29/shu-mei-pai-zhong-geng-xin-octopressbo-ke-de-[?]-dian-wen-ti</id>
+    <content type="html"><![CDATA[<br>
+
+
+<p>在树莓派中安装到bundle install的时候，出现ruby错误，之后看了一下网上的教程，知道了原因</p>
+
+
+<p>原来还需要安装&#8220;`ruby-dev&#8220;`</p>
+
+
+<p>之后在bundle安装之前，执行&#8220;`rbenv rehash&#8220;`，之后在进行&#8220;`bundle install&#8220;`安装即可</p>
+
+
+<p>最后一切都ok了~!!!!</p>
+
+
+<br>
+
+
+<p>其实树莓派是ubuntu演变过来的，可以参考这篇<a href="http://justcoding.iteye.com/blog/1957617">地址</p>
+
+
+<p class='post-footer'>
+                        original link:<a href='http://hiduoshao.github.io/html/blog/2013/12/29/shu-mei-pai-zhong-geng-xin-octopressbo-ke-de-%5B%3F%5D-dian-wen-ti/'>http://hiduoshao.github.io/html/blog/2013/12/29/shu-mei-pai-zhong-geng-xin-octopressbo-ke-de-%5B%3F%5D-dian-wen-ti/</a><br/>&nbsp;written by <a href='http://hiduoshao.github.io/html'>HX</a>&nbsp;posted at <a href='http://hiduoshao.github.io/html'>http://hiduoshao.github.io/html</a></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hack Test]]></title>
